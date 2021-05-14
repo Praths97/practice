@@ -1,3 +1,5 @@
+package practice.collections;
+
 import java.util.*;
 
 public class TreeMapExample {
