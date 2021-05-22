@@ -1,6 +1,6 @@
 package practice.multithreading;
 
-public class MultiThread {
+public class ThreadExMain {
     public static void main(String[] args) {
         ThreadEx t1=new ThreadEx();
         t1.setPriority(4);
